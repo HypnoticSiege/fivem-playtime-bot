@@ -1,0 +1,25 @@
+{
+  "name": "fivem-playtime-bot",
+  "version": "1.0.0",
+  "description": " A Discord Bot to check a player's playtime within your FiveM Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HypnoticSiege/fivem-playtime-bot.git"
+  },
+  "author": "HypnoticSiege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HypnoticSiege/fivem-playtime-bot/issues"
+  },
+  "homepage": "https://github.com/HypnoticSiege/fivem-playtime-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.7",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
